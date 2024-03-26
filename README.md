@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 The movie recommendation system is used to predict or filter users' film preferences based on their previous decisions and actions. 
-Project based on Artificial Intelligence and Machine Learning.
+Project based on Machine Learning and Artificial Intelligence.
 
 Window application:
 - allows you to enter a movie title,
