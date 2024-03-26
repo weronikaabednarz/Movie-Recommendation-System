@@ -8,10 +8,14 @@ Window application:
 - shows suggested films,
 - verifies the entered data - in the case of entering a title which does not exist in the database, the following information pops up.
 
-Technologies used in the project: Python & Jupyter Notebook Tkinter with imports:
-- os - module with methods for interacting with the operating system, like creating files and directories, etc.,
-- openpyxl - library for reading, writing and modifying Excel (with extension xlsx/xlsm/xltx/xltm) files,
-- sqlite3 - library for creating, modifying and managing relational databases (e.g. SQLite database) files.
+Technologies used in the project are *Jupyter Notebook & Python* with imports:
+- pandas - to manipulate and analyse data,
+- numpy - a library for scientific calculations, operations on multidimensional arrays and matrices,
+- tkinter - to create a graphical user interface,
+- ast - to analyse and process expressions
+- CountVectorizer (from sklearn.feature_extraction.text) - to convert a set of text documents into a matrix of numbers
+- nltk - to natural language processing,
+- cosine_similarity (from sklearn.metrics.pairwise) - to calculate cosine similarity between feature vectors.
 
 Initial application appearance:
 
